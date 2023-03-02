@@ -25,4 +25,4 @@ https://github.com/Dassyjoy/responsive#readme
 Tech Stack
 Software Developer; Frontend
 
-SLIDING LOGIN AND SIGNUP PAGE file:///C:/Users/USER/OneDrive/Desktop/RESPONSIVE/index.html
+SLIDING LOGIN AND SIGNUP PAGE file: https://replit.com/@OjoJoy/Sliding-login-and-signup-page?v=1
